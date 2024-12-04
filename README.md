@@ -1,1 +1,1 @@
-# Processing scripts for LPJ-GUESS spruce bark beetle model
+# Processing scripts for LPJ-GUESS spruce bark beetle model simulations
