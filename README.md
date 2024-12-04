@@ -1,1 +1,1 @@
-# spruce_bark_beetle
+# Processing scripts for LPJ-GUESS spruce bark beetle model
